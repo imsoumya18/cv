@@ -5,4 +5,4 @@
 
  **SUPPORT ME:**
  - soumyadeep184@okaxis.com
-<img src="images/UPI.jpg" height="120" width="120">
+<img src="images/UPI.jpg" height="120" width="120" style="margin-left: 30px">
