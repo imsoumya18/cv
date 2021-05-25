@@ -1,6 +1,6 @@
 # This is my Online CV
 
- - To visit this page go to [click here.](https://imsoumya18.github.io/cv)
+ - To visit this page go to [imsoumya18.github.io/cv](https://imsoumya18.github.io/cv)
 
 
  **SUPPORT ME:**
