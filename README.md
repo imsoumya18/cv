@@ -5,5 +5,4 @@
 
  **SUPPORT ME:**
  - UPI: soumyadeep184@okaxis.com
-       <img src="images/UPI.jpg" height="120" width="120" style="border-left: 130px">
-
+ - QR: <img src="images/UPI.jpg" height="120" width="120" style="border-left: 130px">
